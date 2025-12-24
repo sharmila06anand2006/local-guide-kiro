@@ -1,0 +1,2 @@
+Week 5: The Local Guide
+Using product.md to provide local context to Kiro.
